@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1481102727 source:c:\users\yanis\documents\tp_c++\main.cpp
+	<iostream>
+	"TS.h"
+	"TC.h"
+	<cstdlib>
+	"Catalogue.h"
+
+1481045686 c:\users\yanis\documents\tp_c++\include\ts.h
+	"Trajet.h"
+
+1481045686 c:\users\yanis\documents\tp_c++\include\trajet.h
+
+1481102521 source:c:\users\yanis\documents\tp_c++\src\catalogue.cpp
+	"Catalogue.h"
+	<iostream>
+	<cstring>
+
+1481098367 c:\users\yanis\documents\tp_c++\include\catalogue.h
+	"Trajet.h"
+
+1481097711 c:\users\yanis\documents\tp_c++\include\tc.h
+	"Trajet.h"
+
+1481045686 source:c:\users\yanis\documents\tp_c++\src\trajet.cpp
+	"Trajet.h"
+
+1481045686 source:c:\users\yanis\documents\tp_c++\src\ts.cpp
+	"TS.h"
+	<iostream>
+
+1481097711 source:c:\users\yanis\documents\tp_c++\src\tc.cpp
+	"TC.h"
+	<iostream>
+
